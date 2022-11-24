@@ -92,7 +92,7 @@ class HashTableFunction:
         return "".join(str(item) for item in self.hash_table)
   
   
-hash_table = HashTable(50)
+hash_table = HashTableFunction(50)
   
 # insert some values
 hash_table.set_val('gfg@example.com', 'some value')
