@@ -16,19 +16,28 @@ public class HashTableFunction {
     HashTableFunction theFunc = new HashTableFunction(30);
     String[] elementsToAdd = { "1", "5", "17", "21", "26" };
 
+    /**
+     *  type String[]
+     *  hasFunction1(stringForArray, theArray)
+     **/
     theFunc.hashFunction1(elementsToAdd, theFunc.theArray);
-
     theFunc.displayTheStack();
   }
 
+  // put value based the corresponding key
   public void hashFunction1(String[] stringsForArray, String[] theArray) {
-    for (int n = 0; n < stringsForArray.length; n++) {
 
+    for (int n = 0; n < stringsForArray.length; n++) {
       String newElementVal = stringsForArray[n];
       theArray[Integer.parseInt(newElementVal)] = newElementVal;
     }
   }
 
+  public void hashFunction2(String[] stringsForArray, String[] theArray) {
+
+  }
+
+  // Constructor with 1 paratemer called size
   HashTableFunction(int size) {
 
     arraySize = size;
