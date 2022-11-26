@@ -2,7 +2,7 @@
 Cracking the coding interview Book Practice in Java &amp; Python
 
 ### :books: Array and Strings
-## basics :
+## getting started :
 - [:coffee: | O(1) - HashTable vs HashMap](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/HashTableVSHashMap.java) 
 - [:coffee: | O(1) - HashTable function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/HashTableFunction.java)
 - [:snake:  | O(1) - HashTable function](https://github.com/Aclaputra/ctci/blob/main/src/main/python/ctci/HashTableFunction.py)
