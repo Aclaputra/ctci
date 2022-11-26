@@ -1,8 +1,0 @@
-package ctci;
-
-public class PalindromePermutation {
-
-  public static void main(String[] args) {
-
-  }
-}
