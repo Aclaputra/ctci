@@ -9,4 +9,5 @@ Cracking the coding interview Book Practice in Java &amp; Python
 ## solutions :
 - [:coffee: | O(n) - CheckPermutation function ](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/CheckPermutation.java)
 - [:coffee: | O(n) - IsUniqueChars function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/IsUniqueChars.java)
-- [:coffee: | O(1) - ConstantIsUniqueChars function]()
+- [:coffee: | O(1) - ConstantIsUniqueChars function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/ConstantIsUniqueChars.java)
+- [:coffee: | O(n) - PalindromePermutation function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/PalindromePermutation.java)
