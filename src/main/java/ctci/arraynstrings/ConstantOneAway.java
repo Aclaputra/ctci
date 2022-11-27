@@ -1,4 +1,4 @@
-package ctci;
+package ctci.arraynstrings;
 
 public class ConstantOneAway {
   static boolean oneEditAway(String first, String second) {
