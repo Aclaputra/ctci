@@ -1,5 +1,11 @@
-package ctci;
+package ctci.arraynstrings;
 
+/*
+ * traveloka question array and strings
+ * if there is "ap" in "lengkap" then send true
+ * input : "lengkap", "ap"
+ *
+ */
 public class CheckPermutation {
 
   static String sort(String s) {
@@ -7,7 +13,7 @@ public class CheckPermutation {
     java.util.Arrays.sort(content);
     return new String(content);
   }
-
+  
   static boolean permutation(String s, String t) {
     if (s.length() != t.length()) {
       return false;
@@ -31,6 +37,8 @@ public class CheckPermutation {
   }
 
   public static void main(String[] args) {
+    System.out.println(sort("fish"));
+    System.out.println(sort("fish "));
     System.out.println(permutation("fish ", "dog"));
     System.out.println(permutation("fish", "fish"));
   }
