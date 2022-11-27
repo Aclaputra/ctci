@@ -1,4 +1,4 @@
-package ctci;
+package ctci.arraynstrings;
 
 public class ConstantIsUniqueChars {
   static boolean validateUniqueChars(String str) {
