@@ -1,4 +1,4 @@
-package ctci;
+package ctci.arraynstrings;
 
 public class StringCompression {
   static String compressBad(String str) {
