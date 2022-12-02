@@ -8,13 +8,13 @@ package ctci.arraynstrings;
  */
 public class CheckPermutation {
 
-  static String sort(String s) {
+  public static String sort(String s) {
     char[] content = s.toCharArray();
     java.util.Arrays.sort(content);
     return new String(content);
   }
   
-  static boolean permutation(String s, String t) {
+  public static boolean permutation(String s, String t) {
     if (s.length() != t.length()) {
       return false;
     }
