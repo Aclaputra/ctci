@@ -11,13 +11,13 @@ public class Partition {
     LinkedList<Integer> afterEnd = null;
 
     /* Partition list */
-    while (node != null) {
-      LinkedList<Integer> next = node.next;
-      node.next = null;
-      if (node.data < x) {
-
-      }
-    }
+//    while (node != null) {
+//      LinkedList<Integer> next = node.next;
+//      node.next = null;
+//      if (node.data < x) {
+//
+//      }
+//    }
 
 
     return beforeStart;
