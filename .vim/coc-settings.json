@@ -1,3 +1,4 @@
 {
-  "rpc.enabled": true
+  "rpc.enabled": true,
+  "java.jdt.ls.vmargs": "-javaagent:$HOME/lombok/lombok.jar -javaagent:\"/home/trogoldyte/.config/coc/extensions/node_modules/coc-java-lombok/jar/lombok.jar\""
 }

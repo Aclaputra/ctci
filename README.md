@@ -11,3 +11,4 @@ Cracking the coding interview Book Practice in Java &amp; Python
 - [:coffee: | O(n) - IsUniqueChars function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/IsUniqueChars.java)
 - [:coffee: | O(1) - ConstantIsUniqueChars function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/ConstantIsUniqueChars.java)
 - [:coffee: | O(n) - PalindromePermutation function](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/PalindromePermutation.java)
+- [:coffee: | String Compression](https://github.com/Aclaputra/ctci/blob/main/src/main/java/ctci/arraynstrings/StringCompression.java)

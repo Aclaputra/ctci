@@ -30,3 +30,4 @@ public class CheckPermutation2 {
 public static void main(String[] args) {
   out.println(permutation("fis", "dog"));
 }
+
